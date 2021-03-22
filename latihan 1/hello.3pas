@@ -1,0 +1,16 @@
+{Nama : Tia Setiawati Sofyan}
+{NPM : 20.14.0063}
+{Nama Program : hello3.pas}
+
+Program hello3;
+uses crt;
+
+var
+nama : string;
+
+begin
+writeln('Contoh membaca dan menulis inputan');
+writeln('Masukan Nama :'):
+readln(nama);
+
+end.
