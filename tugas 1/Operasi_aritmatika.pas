@@ -10,6 +10,8 @@ i,j:integer;
 hasil:integer;
 
 begin
+clrscr;
+
 write('Masukan nilai i : ');
 readln(i);
 write('Masukan nilai j : ');
