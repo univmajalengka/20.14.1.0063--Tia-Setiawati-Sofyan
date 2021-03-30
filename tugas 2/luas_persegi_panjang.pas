@@ -9,6 +9,8 @@ var
 panjang, lebar:integer;
 
 begin
+clrscr;
+
 writeln('Program Luas Persegi Panjang');
 writeln('============================');
 write('Masukan Nilai Panjang : ');
