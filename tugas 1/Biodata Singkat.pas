@@ -9,6 +9,8 @@ var
 nama,npm,alamat,ttl,nohp,motto :string;
 
 begin
+clrscr;
+
 write('1. Nama : ');
 readln(nama);
 write('2. NPM : ');
